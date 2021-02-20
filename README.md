@@ -1,0 +1,2 @@
+# principal-component-analysis-PCA-linear-Discriminant-Analysis-LDA-
+Use all training images of three digits (‘4’, ‘7’ and ‘8’) to estimate the principal component analysis (PCA) projection matrices, and then plot the total distortion error in eq.(4.5) of these images as a function of the used PCA dimensions (such as 2, 10, 50, 100, 200, 300). Also, plot all eigenvalues of the sample covariance matrix from the largest to the smallest, at least how many dimensions will you have to use in PCA in order to keep 98% of the total variance in data?
